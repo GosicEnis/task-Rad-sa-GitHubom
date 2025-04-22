@@ -1,0 +1,6 @@
+# Ignorisanje foldera sa snimcima ekrana
+screenshots/
+
+# Ignorisanje svih PNG i JPG fajlova (bilo gde u projektu)
+*.png
+*.jpg
